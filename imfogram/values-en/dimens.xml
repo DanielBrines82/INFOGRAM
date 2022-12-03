@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginTop_create_account">30dp</dimen>
+    <dimen name="corner_radius_cardview">20dp</dimen>
+    <dimen name="margin_cardview">10dp</dimen>
+    <dimen name="padding_cardview">10dp</dimen>
+    <dimen name="paddingBottom_container">10dp</dimen>
+    <dimen name="height_bootom_navigation_view">70dp</dimen>
+    <dimen name="margin_fab">dp</dimen>
+</resources>

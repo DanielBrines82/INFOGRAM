@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crea cuenta</string>
+    <string name="nombre_de_usuario">nombre_de_usuario</string>
+    <string name="contraceña">contrasena</string>
+    <string name="button_text">/LOGIN</string>
+    <string name="no_tienes_cuenta">¿no_tienes_cuenta?</string>
+    <string name="crea_una_aqui">/crea_una_aqui</string>
+    <string name="Correo">correo</string>
+    <string name="nombre">Nombre</string>
+    <string name="usuario">Usuario</string>
+    <string name="button_text_create_account">UNETE</string>
+    <string name="confirme_contraseña">Confirme_contraseña</string>
+    <string name="title_create_cuenta">Crear cuenta</string>
+    <string name="carlos_vargas_cardview">carlos vargas</string>
+    <string name="hace_cardview">hace</string>
+    <string name="dias_cardview">" 4 dias"</string>
+    <string name="me_gusta_cardview">10 me gusta</string>
+    <string name="buscar_item" />
+    <string name="home_item" />
+    <string name="yo_item" />
+
+</resources>
